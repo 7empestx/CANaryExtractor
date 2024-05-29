@@ -1,0 +1,6 @@
+CANaryExtractorBackend/node_modules
+CANaryExtractorBackend/uploads
+CANaryExtractorBackend/src/outputs
+CANaryExtractorFrontend/node_modules
+CANaryExtractorFrontend/.env
+cdk/node_modules
